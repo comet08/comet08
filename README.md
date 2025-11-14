@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&&customColorList=20,20,20,20,100&height=200&section=header&text=COMET&fontSize=50&fontColor=000838&fontAlignY=30&fontAlign=85)
 
-💌 Email : sperocometa@naver.com
+💌 Email : sperocometa@gmail.com
 
 💫 Blog : [https://blog.naver.com/sperocometa](https://blog.naver.com/sperocometa)
 
