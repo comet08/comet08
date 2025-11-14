@@ -11,7 +11,6 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&color=gradient&customColorList=20,20,20,20,100)
 
 
 
