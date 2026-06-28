@@ -16,4 +16,4 @@ Arch       Turborepo · Zustand · React Query
 
 ### Links
 
-🌐 [comet08](https://comet08.dev/)
+🌐 [comet08.dev](https://comet08.dev/)
