@@ -9,12 +9,11 @@
 ### Stack
 
 ```
-Frontend   React · Next.js · TypeScript · Tailwind CSS
-AI Agent   Vercel AI SDK · LangChain · SSE Streaming · Context Engineering
-Arch       Turborepo · Zustand · React Query · FSD
-Tooling    Vite · bun · MSW · Docker · GitHub Actions
+Frontend   React · Next.js · TypeScript
+AI Agent   LangChain · SSE Streaming · Context Engineering
+Arch       Turborepo · Zustand · React Query
 ```
 
 ### Links
 
-🌐 [comet08.github.io](https://comet08.github.io)
+🌐 [comet08](https://comet08.dev/)
